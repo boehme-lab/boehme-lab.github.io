@@ -1,0 +1,1 @@
+Thrilled to be invited to give a <b>keynote</b> on Agentic Software Security at the <a href="https://www.sicp.de/en/aktuelle-veranstaltungen/tag-der-it-sicherheit-2026/20-paderborner-tag-der-it-sicherheit#c998100">20th Paderborner Day of IT Security</a> (September 1st).
