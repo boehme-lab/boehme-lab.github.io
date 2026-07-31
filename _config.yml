@@ -1,5 +1,5 @@
 name: Böhme Research Group
-url: https://mpi-softsec.github.io/
+url: https://boehme-lab.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
