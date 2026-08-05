@@ -45,14 +45,14 @@ hannah2:
     display_name: "Hannah Freudenberger"
     webpage: "https://www.h-brs.de/de/hannah-freudenberger"
     role: ugrad
-    bio: MSc thesis (Bonn-Rhein-Sieg, DE)
+    bio: MSc thesis (H-BRS, DE)
 
 annika:
    display_name: "Annika Kuntze"
    image: /img/people/annika.jpeg
    webpage: "https://wasp.systems/team/annika-kuntze/"
    role: ugrad
-   bio: MSc thesis (Bonn-Rhein-Sieg, DE)
+   bio: MSc thesis (Uni Bonn, DE)
 #zac:
 #    display_name: "Zac Hatfield-Dodds"
 #    image: /img/people/zac.jpeg
