@@ -11,7 +11,7 @@ niklas:
     image: /img/people/niklas.jpeg
     webpage: "https://niklasrisse.github.io"
     role: grad
-    bio: PhD Student (MPI-SP / CASA)<br/>Soon PostDoc w/ Eric Bodden <br/> U of Paderborn / Fraunhofer IEM
+    bio: PhD Student (MPI-SP / CASA)<br/>Soon PostDoc w/ Eric Bodden at U of Paderborn / Fraunhofer IEM
 
 ardi:
     display_name: "Ardi Madadi"
@@ -181,26 +181,26 @@ haoxin:
     image: /img/people/haoxin.png
     webpage: https://haoxintu.github.io/
     role: intern-alum
-    bio: "2024. SMU, Singapore.<br/>Now at NUS, Singapore."
+    bio: "2024. SMU, Singapore.<br/><p style="margin-left: 40px;">Now at NUS, Singapore.</p>"
 
 abhishek:
     display_name: "Dr. Abhishek Shah"
     image: /img/people/abhishek.jpeg
     webpage: https://www.cs.columbia.edu/~ass/
     role: intern-alum
-    bio: "2023. Columbia University, USA.<br/>Now at Online Safety Non-Profit."
+    bio: "2023. Columbia University, USA.<br/><p style="margin-left: 40px;">Now at Online Safety Non-Profit.</p>"
     
 stephan:
     display_name: "Dr. Stephan Lipp"
     webpage: "https://www.cs.cit.tum.de/sse/lipp/"
     role: intern-alum
-    bio: "2022. TU Munich, Germany<br/>Now at Security Startup."
+    bio: "2022. TU Munich, Germany<br/><p style="margin-left: 40px;">Now at Security Startup.</p>"
 
 nikhil:
     display_name: "Dr. Nikhil Parasaram"
     webpage: "https://uk.linkedin.com/in/nikhil-parasaram-1956b5134"
     role: intern-alum
-    bio: "2022. University College London, UK.<br/>Now at Uber, NL."
+    bio: "2022. University College London, UK.<br/><p style="margin-left: 40px;">Now at Uber, NL.</p>"
 
 giorgi:
     display_name: "Giorgi Merabishvili"
@@ -253,7 +253,7 @@ yasamin1:
     webpage: https://www.linkedin.com/in/yasamin-golzar-2bb7a11aa/
     image: /img/people/yasamin.jpeg
     role: intern-alum
-    bio: "2024. Sharif University, Iran.<br/>Now PhD student @ MPI-SP, DE."
+    bio: "2024. Sharif University, Iran.<br/><p style="margin-left: 40px;">Now PhD student @ MPI-SP, DE.</p>"
 
 eric:
     display_name: "Eric Tang"
@@ -273,26 +273,26 @@ rafaila:
     image: /img/people/rafaila.jpeg
     webpage: https://gr.linkedin.com/in/rafaila-galanopoulou-216460168
     role: intern-alum
-    bio: "2023. Athens University, Greece<br/>Now PhD student @ EPFL, CH."
+    bio: "2023. Athens University, Greece<br/><p style="margin-left: 40px;">Now PhD student @ EPFL, CH.</p>"
 
 simran:
     display_name: "Simran Kathpalia"
     image: /img/people/simran.jpeg
     webpage: https://de.linkedin.com/in/simran-kathpalia-31539b1a4
     role: intern-alum
-    bio: "2023. Amrita University, India<br/>Now MSc student @ Uni Saarland, DE."
+    bio: "2023. Amrita University, India<br/><p style="margin-left: 40px;">Now MSc student @ Uni Saarland, DE.</p>"
 
 shreyas:
     display_name: "Shreyas Minocha"
     webpage: https://shreyasminocha.me/
     role: intern-alum
-    bio: "2023. Rice University, USA<br/>Now PhD student @ Georgia Tech, US."
+    bio: "2023. Rice University, USA<br/><p style="margin-left: 40px;">Now PhD student @ Georgia Tech, US.</p>"
 
 dongjia:
     display_name: "Dongjia Zhang"
     webpage: https://www.eurecom.fr/en/people/zhang-dongjia
     role: intern-alum
-    bio: "2022. Tokyo University, JP<br/>Now PhD student @ EURECOM, FR."
+    bio: "2022. Tokyo University, JP<br/><p style="margin-left: 40px;">Now PhD student @ EURECOM, FR.</p>"
 
 christian:
     display_name: "Christian Presa Schnell"
