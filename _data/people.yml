@@ -11,7 +11,7 @@ niklas:
     image: /img/people/niklas.jpeg
     webpage: "https://niklasrisse.github.io"
     role: grad
-    bio: PhD Student (MPI-SP / CASA)
+    bio: PhD Student (MPI-SP / CASA)<br/>Moving to U of Paderborn / Fraunhofer IEM
 
 ardi:
     display_name: "Ardi Madadi"
