@@ -40,6 +40,19 @@ jing:
     webpage: https://jing6.netlify.app/
     role: grad
     bio: PhD Student (MPI-SP)
+
+hannah2:
+    display_name: "Hannah Freudenberger"
+    webpage: "https://www.h-brs.de/de/hannah-freudenberger"
+    role: ugrad
+    bio: MSc thesis (Bonn-Rhein-Sieg, DE)
+
+annika:
+   display_name: "Annika Kuntze"
+   image: /img/people/annika.jpeg
+   webpage: "https://wasp.systems/team/annika-kuntze/"
+   role: ugrad
+   bio: MSc thesis (Bonn-Rhein-Sieg, DE)
 #zac:
 #    display_name: "Zac Hatfield-Dodds"
 #    image: /img/people/zac.jpeg
@@ -65,20 +78,6 @@ eleonora:
     role: intern-alum
     image: /img/people/eleonora.jpg
     bio: 2024. U of Padova, Italy
-
-giorgi:
-    display_name: "Giorgi Merabishvili"
-    webpage: "https://giorgix121.github.io/"
-    role: intern
-    image: /img/people/giorgi.jpg
-    bio: NC State U, USA
-
-arjun:
-    display_name: "Arjun Sekar"
-    webpage: "https://www.linkedin.com/in/arjunsekar2004/"
-    role: intern
-    image: /img/people/arjun.jpg
-    bio: IIT Gandhinagar, India
 
 yasamin:
     display_name: "Yasamin Golzar"
@@ -196,6 +195,20 @@ nikhil:
     role: intern-alum
     bio: "2022. University College London, UK"
 
+giorgi:
+    display_name: "Giorgi Merabishvili"
+    webpage: "https://giorgix121.github.io/"
+    role: intern-alum
+    image: /img/people/giorgi.jpg
+    bio: "2026. NC State U, USA"
+
+arjun:
+    display_name: "Arjun Sekar"
+    webpage: "https://www.linkedin.com/in/arjunsekar2004/"
+    role: intern-alum
+    image: /img/people/arjun.jpg
+    bio: "2026. IIT Gandhinagar, India"
+    
 hannah:
     display_name: "Hannah Freudenberger"
     webpage: "https://www.h-brs.de/de/hannah-freudenberger"
