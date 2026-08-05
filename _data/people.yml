@@ -139,7 +139,7 @@ behrad:
     image: /img/people/behrad.jpeg
     webpage: https://www.linkedin.com/in/behrad-garmany/
     role: postdoc-alum
-    bio: "PostDoc 2022. RUB, Germany. Now at Onapsis Inc."
+    bio: "PostDoc 2022. RUB, Germany. Now CTO and Founder Binamic Security, Germany"
 
 octavio:
     display_name: "Octavio Galland"
@@ -188,13 +188,13 @@ abhishek:
     image: /img/people/abhishek.jpeg
     webpage: https://www.cs.columbia.edu/~ass/
     role: intern-alum
-    bio: "2023. Columbia University, USA. Now at Online Safety Non-Profit."
+    bio: "2023. Columbia University, USA. Now at Online Safety Non-Profit, USA."
     
 stephan:
     display_name: "Dr. Stephan Lipp"
     webpage: "https://www.cs.cit.tum.de/sse/lipp/"
     role: intern-alum
-    bio: "2022. TU Munich, Germany. Now at Security Startup."
+    bio: "2022. TU Munich, Germany. Now at Security Startup, Germany."
 
 nikhil:
     display_name: "Dr. Nikhil Parasaram"
@@ -220,14 +220,14 @@ hannah:
     display_name: "Hannah Freudenberger"
     webpage: "https://www.h-brs.de/de/hannah-freudenberger"
     role: intern-alum
-    bio: 2026. Bonn-Rhein-Sieg, DE
+    bio: 2026. Bonn-Rhein-Sieg, Germany
 
 pepe:
     display_name: "José Antonio Zamudio Amaya"
     webpage: "https://jzamudio.com/"
     role: intern-alum
     image: https://cispa.de/person-images/c01joza.jpg
-    bio: 2026. CISPA, DE
+    bio: 2026. CISPA Helmholtz Center for Information Security, Germany
     
 youngjae:
     display_name: "YoungJae Kim"
@@ -246,7 +246,7 @@ ruixiang:
 thomas:
     display_name: "Thomas Valentin"
     role: intern-alum
-    bio: "2025. ENS Paris-Saclay"
+    bio: "2025. ENS Paris-Saclay, France"
     
 yasamin1:
     display_name: "Yasamin Golzar"
@@ -298,7 +298,7 @@ christian:
     display_name: "Christian Presa Schnell"
     webpage: https://blog.trailofbits.com/2022/04/26/improving-the-state-of-go-fuzz/
     role: intern-alum
-    bio: "2022. TU Munich, DE."
+    bio: "2022. TU Munich, Germany."
 
 robertstark:
     display_name: "Robert Stark"
