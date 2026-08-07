@@ -27,9 +27,9 @@ roles:
   - key: coadv
     name: "Co-advised Grad Students"
   - key: ugrad
-    name: "Undergraduate Students"
+    name: "MSc Students"
   - key: ugrad-alum
-    name: "Past Undergraduate Students"
+    name: "Past MSc Students"
   - key: intern
     name: "Interns &amp; Visitors"
   - key: intern-alum
