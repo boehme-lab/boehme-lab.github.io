@@ -23,9 +23,9 @@ roles:
   - key: postdoc-alum
     name: "Past Research Fellows"
   - key: grad
-    name: "Graduate Students"
+    name: "PhD Students"
   - key: coadv
-    name: "Co-advised Grad Students"
+    name: "Co-advised PhD Students"
   - key: ugrad
     name: "MSc Students"
   - key: ugrad-alum
