@@ -6,13 +6,6 @@ marcel:
     image: /img/people/marcel.jpeg
     bio: Faculty member
 
-niklas:
-    display_name: "Niklas Risse"
-    image: /img/people/niklas.jpeg
-    webpage: "https://niklasrisse.github.io"
-    role: grad
-    bio: PhD Student (MPI-SP / CASA)<!--br/>Soon PostDoc w/ Eric Bodden at U of Paderborn / Fraunhofer IEM-->
-
 ardi:
     display_name: "Ardi Madadi"
     image: /img/people/ardi.jpeg
@@ -59,6 +52,7 @@ annika:
 #    webpage: https://zhd.dev/
 #    role: coadv
 #    bio: "PhD student (ANU, on leave @ Anthropic, w/ Tony Hosking)"
+
 jooyong:
     display_name: "Prof. Jooyong Yi"
     webpage: "https://www.jooyongyi.com/"
@@ -79,12 +73,26 @@ eleonora:
     image: /img/people/eleonora.jpg
     bio: 2024. U of Padova, Italy
 
+konstantinos:
+    display_name: "Konstantinos Kitsios"
+    image: /img/people/konstantinos.png
+    webpage: https://kitsiosk.github.io/
+    role: intern
+    bio: "PhD student @ U of Z&uuml;rich, CH"
+
 yasamin:
     display_name: "Yasamin Golzar"
     webpage: https://www.linkedin.com/in/yasamin-golzar-2bb7a11aa/
     image: /img/people/yasamin.jpeg
     role: grad
     bio: "PhD student (MPI-SP)<br/>Main advisor: Yixin Zou"
+
+niklas:
+    display_name: "Niklas Risse"
+    image: /img/people/niklas.jpeg
+    webpage: "https://niklasrisse.github.io"
+    role: alum
+    bio: PhD 2026. Now at U of Paderborn / Fraunhofer IEM
 
 philipp:
     display_name: "Philipp Görz"
